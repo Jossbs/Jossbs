@@ -22,14 +22,6 @@ Me especializo en el desarrollo de aplicaciones web, diseño de APIs REST y auto
 
 ## 🛠️ Tecnologías y Stack
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cs,php,js,ts,react,laravel,spring,dotnet,html,css,tailwind,bootstrap,postgres,mysql,mongodb,firebase,git,github,docker,figma&theme=dark&perline=7" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cs,php,js,ts,react,laravel,spring,dotnet,html,css,tailwind,bootstrap,postgres,mysql,mongodb,firebase,git,github,docker,figma&theme=light&perline=7" />
-    <img src="https://skillicons.dev/icons?i=cs,php,js,ts,react,laravel,spring,dotnet,html,css,tailwind,bootstrap,postgres,mysql,mongodb,firebase,git,github,docker,figma&theme=light&perline=7" alt="Tecnologías principales" />
-  </picture>
-</div>
-
 <br />
 
 <table>
