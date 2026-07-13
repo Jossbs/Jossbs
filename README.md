@@ -10,6 +10,10 @@
   <img src="https://img.shields.io/badge/Ingenier%C3%ADa%20en%20Software-6e7781?style=flat" alt="Ingeniería en Software" />
 </p>
 
+<sub>
+  <img src="https://komarev.com/ghpvc/?username=Jossbs&label=%E2%97%8F%20views&style=flat&color=6e7781" alt="Profile views" />
+</sub>
+
 </div>
 
 Me especializo en el desarrollo de aplicaciones web, diseño de APIs REST y automatización de procesos. Me interesa construir soluciones escalables, mantener código limpio y aplicar buenas prácticas de desarrollo para resolver problemas reales.
@@ -22,9 +26,9 @@ Actualmente busco una oportunidad como **Desarrollador Full Stack Jr.** o **Anal
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,cs,php,js,ts,react,laravel,spring,dotnet,html,css,tailwind,bootstrap,postgres,mysql,mongodb,firebase,git,github,docker,figma&theme=dark&perline=7" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,cs,php,js,ts,react,laravel,spring,dotnet,html,css,tailwind,bootstrap,postgres,mysql,mongodb,firebase,git,github,docker,figma&theme=light&perline=7" />
-    <img src="https://skillicons.dev/icons?i=java,cs,php,js,ts,react,laravel,spring,dotnet,html,css,tailwind,bootstrap,postgres,mysql,mongodb,firebase,git,github,docker,figma&theme=light&perline=7" alt="Tecnologías principales" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cs,php,js,ts,react,laravel,spring,dotnet,html,css,tailwind,bootstrap,postgres,mysql,mongodb,firebase,git,github,docker,figma&theme=dark&perline=7" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cs,php,js,ts,react,laravel,spring,dotnet,html,css,tailwind,bootstrap,postgres,mysql,mongodb,firebase,git,github,docker,figma&theme=light&perline=7" />
+    <img src="https://skillicons.dev/icons?i=cs,php,js,ts,react,laravel,spring,dotnet,html,css,tailwind,bootstrap,postgres,mysql,mongodb,firebase,git,github,docker,figma&theme=light&perline=7" alt="Tecnologías principales" />
   </picture>
 </div>
 
@@ -35,48 +39,86 @@ Actualmente busco una oportunidad como **Desarrollador Full Stack Jr.** o **Anal
     <td width="50%" valign="top">
       <strong>💻 Lenguajes</strong>
       <br /><br />
-      Java · C# · PHP · JavaScript · TypeScript · SQL
+      <img width="14" src="https://cdn.simpleicons.org/openjdk/6e7781" alt="Java" /> Java ·
+      <img width="14" src="https://cdn.simpleicons.org/csharp/6e7781" alt="C#" /> C# ·
+      <img width="14" src="https://cdn.simpleicons.org/php/6e7781" alt="PHP" /> PHP ·
+      <img width="14" src="https://cdn.simpleicons.org/javascript/6e7781" alt="JavaScript" /> JavaScript ·
+      <img width="14" src="https://cdn.simpleicons.org/typescript/6e7781" alt="TypeScript" /> TypeScript ·
+      <img width="14" src="https://cdn.simpleicons.org/sqlite/6e7781" alt="SQL" /> SQL
     </td>
     <td width="50%" valign="top">
       <strong>⚙️ Frameworks y Tecnologías</strong>
       <br /><br />
-      React · Laravel · Inertia.js · Spring Boot · ASP.NET Core · LWC · Aura Components
+      <img width="14" src="https://cdn.simpleicons.org/react/6e7781" alt="React" /> React ·
+      <img width="14" src="https://cdn.simpleicons.org/laravel/6e7781" alt="Laravel" /> Laravel ·
+      <img width="14" src="https://cdn.simpleicons.org/inertia/6e7781" alt="Inertia.js" /> Inertia.js ·
+      <img width="14" src="https://cdn.simpleicons.org/springboot/6e7781" alt="Spring Boot" /> Spring Boot ·
+      <img width="14" src="https://cdn.simpleicons.org/dotnet/6e7781" alt="ASP.NET Core" /> ASP.NET Core ·
+      <img width="14" src="https://cdn.simpleicons.org/salesforce/6e7781" alt="LWC" /> LWC ·
+      <img width="14" src="https://cdn.simpleicons.org/salesforce/6e7781" alt="Aura Components" /> Aura Components
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <strong>🎨 Frontend</strong>
       <br /><br />
-      HTML5 · CSS3 · Tailwind CSS · Bootstrap
+      <img width="14" src="https://cdn.simpleicons.org/html5/6e7781" alt="HTML5" /> HTML5 ·
+      <img width="14" src="https://cdn.simpleicons.org/css3/6e7781" alt="CSS3" /> CSS3 ·
+      <img width="14" src="https://cdn.simpleicons.org/tailwindcss/6e7781" alt="Tailwind CSS" /> Tailwind CSS ·
+      <img width="14" src="https://cdn.simpleicons.org/bootstrap/6e7781" alt="Bootstrap" /> Bootstrap
     </td>
     <td width="50%" valign="top">
       <strong>🗄️ Bases de Datos</strong>
       <br /><br />
-      PostgreSQL · MySQL · MariaDB · MongoDB · Firebase
+      <img width="14" src="https://cdn.simpleicons.org/postgresql/6e7781" alt="PostgreSQL" /> PostgreSQL ·
+      <img width="14" src="https://cdn.simpleicons.org/mysql/6e7781" alt="MySQL" /> MySQL ·
+      <img width="14" src="https://cdn.simpleicons.org/mariadb/6e7781" alt="MariaDB" /> MariaDB ·
+      <img width="14" src="https://cdn.simpleicons.org/mongodb/6e7781" alt="MongoDB" /> MongoDB ·
+      <img width="14" src="https://cdn.simpleicons.org/firebase/6e7781" alt="Firebase" /> Firebase
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <strong>🧰 Herramientas</strong>
       <br /><br />
-      Git · GitHub · Docker · Docker Compose · Composer · Swagger/OpenAPI · Salesforce · Jira · Google Apps Script · Google Workspace
+      <img width="14" src="https://cdn.simpleicons.org/git/6e7781" alt="Git" /> Git ·
+      <img width="14" src="https://cdn.simpleicons.org/github/6e7781" alt="GitHub" /> GitHub ·
+      <img width="14" src="https://cdn.simpleicons.org/docker/6e7781" alt="Docker" /> Docker ·
+      <img width="14" src="https://cdn.simpleicons.org/docker/6e7781" alt="Docker Compose" /> Docker Compose ·
+      <img width="14" src="https://cdn.simpleicons.org/composer/6e7781" alt="Composer" /> Composer ·
+      <img width="14" src="https://cdn.simpleicons.org/swagger/6e7781" alt="Swagger/OpenAPI" /> Swagger/OpenAPI ·
+      <img width="14" src="https://cdn.simpleicons.org/salesforce/6e7781" alt="Salesforce" /> Salesforce ·
+      <img width="14" src="https://cdn.simpleicons.org/jira/6e7781" alt="Jira" /> Jira ·
+      <img width="14" src="https://cdn.simpleicons.org/googleappsscript/6e7781" alt="Google Apps Script" /> Google Apps Script ·
+      <img width="14" src="https://cdn.simpleicons.org/googleworkspace/6e7781" alt="Google Workspace" /> Google Workspace
     </td>
     <td width="50%" valign="top">
       <strong>🎨 Diseño UI/UX</strong>
       <br /><br />
-      Figma · Canva · Paper Prototyping · Arquitectura de la Información · Wireframing · Prototipado de interfaces
+      <img width="14" src="https://cdn.simpleicons.org/figma/6e7781" alt="Figma" /> Figma ·
+      <img width="14" src="https://cdn.simpleicons.org/canva/6e7781" alt="Canva" /> Canva ·
+      ◌ Paper Prototyping ·
+      ◫ Arquitectura de la Información ·
+      ◇ Wireframing ·
+      ◱ Prototipado de interfaces
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <strong>🤖 Inteligencia Artificial</strong>
       <br /><br />
-      ChatGPT · Claude · Google Gemini · Agentforce
+      <img width="14" src="https://cdn.simpleicons.org/openai/6e7781" alt="ChatGPT" /> ChatGPT ·
+      <img width="14" src="https://cdn.simpleicons.org/claude/6e7781" alt="Claude" /> Claude ·
+      <img width="14" src="https://cdn.simpleicons.org/googlegemini/6e7781" alt="Google Gemini" /> Google Gemini ·
+      <img width="14" src="https://cdn.simpleicons.org/salesforce/6e7781" alt="Agentforce" /> Agentforce
     </td>
     <td width="50%" valign="top">
       <strong>📈 Metodologías</strong>
       <br /><br />
-      Agile · Lean · OKRs · Gestión del Cambio Tecnológico
+      ◌ Agile ·
+      ◫ Lean ·
+      ◇ OKRs ·
+      ◱ Gestión del Cambio Tecnológico
     </td>
   </tr>
 </table>
@@ -137,7 +179,12 @@ Sistema web para la administración de expedientes clínicos y seguimiento de pa
 
 ## 📚 Actualmente aprendiendo
 
-TypeScript · Docker · Arquitectura de Software · Patrones de Diseño · Pruebas automatizadas · Diseño UI/UX
+<img width="14" src="https://cdn.simpleicons.org/typescript/6e7781" alt="TypeScript" /> TypeScript ·
+<img width="14" src="https://cdn.simpleicons.org/docker/6e7781" alt="Docker" /> Docker ·
+◫ Arquitectura de Software ·
+◇ Patrones de Diseño ·
+◱ Pruebas automatizadas ·
+<img width="14" src="https://cdn.simpleicons.org/figma/6e7781" alt="Diseño UI/UX" /> Diseño UI/UX
 
 ---
 
@@ -147,21 +194,6 @@ TypeScript · Docker · Arquitectura de Software · Patrones de Diseño · Prueb
 * Profundizar en arquitectura de software y diseño de sistemas.
 * Participar en proyectos colaborativos utilizando Git.
 * Contribuir a proyectos multidisciplinarios.
-
-## 📊 GitHub
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Jossbs&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&rank_icon=github" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Jossbs&show_icons=true&theme=default&hide_border=true&bg_color=00000000&rank_icon=github" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jossbs&show_icons=true&theme=default&hide_border=true&bg_color=00000000&rank_icon=github" alt="GitHub stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Jossbs&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Jossbs&layout=compact&theme=default&hide_border=true&bg_color=00000000" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jossbs&layout=compact&theme=default&hide_border=true&bg_color=00000000" alt="Top languages" />
-  </picture>
-</div>
 
 ## 📫 Contacto
 
