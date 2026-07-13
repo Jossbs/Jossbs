@@ -18,8 +18,6 @@
 
 Me especializo en el desarrollo de aplicaciones web, diseño de APIs REST y automatización de procesos. Me interesa construir soluciones escalables, mantener código limpio y aplicar buenas prácticas de desarrollo para resolver problemas reales.
 
-Actualmente busco una oportunidad como **Desarrollador Full Stack Jr.** o **Analista de Sistemas**, donde pueda aportar valor mientras continúo fortaleciendo mis habilidades técnicas y profesionales.
-
 ---
 
 ## 🛠️ Tecnologías y Stack
