@@ -5,10 +5,9 @@
 💻 **Desarrollador Full Stack Jr. | Analista de Sistemas | Estudiante de Ingeniería en Desarrollo y Gestión de Software**
 
 <p>
-  <img src="https://img.shields.io/badge/Full%20Stack%20Jr.-512BD4?style=for-the-badge" alt="Full Stack Jr." />
-  <img src="https://img.shields.io/badge/Analista%20de%20Sistemas-00A1E0?style=for-the-badge" alt="Analista de Sistemas" />
-  <img src="https://img.shields.io/badge/Ingenier%C3%ADa%20en%20Software-ED8B00?style=for-the-badge" alt="Ingeniería en Software" />
-  <img src="https://komarev.com/ghpvc/?username=Jossbs&style=for-the-badge&color=512BD4" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Full%20Stack%20Jr.-6e7781?style=flat" alt="Full Stack Jr." />
+  <img src="https://img.shields.io/badge/Analista%20de%20Sistemas-6e7781?style=flat" alt="Analista de Sistemas" />
+  <img src="https://img.shields.io/badge/Ingenier%C3%ADa%20en%20Software-6e7781?style=flat" alt="Ingeniería en Software" />
 </p>
 
 </div>
@@ -19,164 +18,126 @@ Actualmente busco una oportunidad como **Desarrollador Full Stack Jr.** o **Anal
 
 ---
 
-## 🚀 Tecnologías
+## 🛠️ Tecnologías y Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,cs,php,js,ts,react,laravel,spring,dotnet,html,css,tailwind,bootstrap,postgres,mysql,mongodb,firebase,git,github,docker,figma&perline=7" alt="Tecnologías principales" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,cs,php,js,ts,react,laravel,spring,dotnet,html,css,tailwind,bootstrap,postgres,mysql,mongodb,firebase,git,github,docker,figma&theme=dark&perline=7" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,cs,php,js,ts,react,laravel,spring,dotnet,html,css,tailwind,bootstrap,postgres,mysql,mongodb,firebase,git,github,docker,figma&theme=light&perline=7" />
+    <img src="https://skillicons.dev/icons?i=java,cs,php,js,ts,react,laravel,spring,dotnet,html,css,tailwind,bootstrap,postgres,mysql,mongodb,firebase,git,github,docker,figma&theme=light&perline=7" alt="Tecnologías principales" />
+  </picture>
 </div>
 
-## 🛠️ Tech Stack
+<br />
 
-### 💻 Lenguajes
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="CSharp" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" alt="SQL" />
-</p>
-
-### ⚙️ Frameworks y Tecnologías
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge" alt="Inertia.js" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
-  <img src="https://img.shields.io/badge/Lightning_Web_Components-00A1E0?style=for-the-badge" alt="Lightning Web Components" />
-  <img src="https://img.shields.io/badge/Aura_Components-1798C1?style=for-the-badge" alt="Aura Components" />
-</p>
-
-### 🎨 Frontend
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-</p>
-
-### 🗄️ Bases de Datos
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
-</p>
-
-### 🧰 Herramientas
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose" />
-  <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" alt="Composer" />
-  <img src="https://img.shields.io/badge/Swagger/OpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger/OpenAPI" />
-  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
-  <img src="https://img.shields.io/badge/Apps_Script-4285F4?style=for-the-badge&logo=googleappsscript&logoColor=white" alt="Google Apps Script" />
-  <img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white" alt="Google Workspace" />
-</p>
-
-### 🎨 Diseño UI/UX
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
-  <img src="https://img.shields.io/badge/Paper_Prototyping-555555?style=for-the-badge" alt="Paper Prototyping" />
-  <img src="https://img.shields.io/badge/Arquitectura_de_la_Informaci%C3%B3n-555555?style=for-the-badge" alt="Arquitectura de la Información" />
-  <img src="https://img.shields.io/badge/Wireframing-555555?style=for-the-badge" alt="Wireframing" />
-  <img src="https://img.shields.io/badge/Prototipado_de_interfaces-555555?style=for-the-badge" alt="Prototipado de interfaces" />
-</p>
-
-### 🤖 Inteligencia Artificial
-
-<p align="center">
-  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge" alt="Claude" />
-  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
-  <img src="https://img.shields.io/badge/Agentforce-00A1E0?style=for-the-badge" alt="Agentforce" />
-</p>
-
-### 📈 Metodologías
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge" alt="Agile" />
-  <img src="https://img.shields.io/badge/Lean-111827?style=for-the-badge" alt="Lean" />
-  <img src="https://img.shields.io/badge/OKRs-7C3AED?style=for-the-badge" alt="OKRs" />
-  <img src="https://img.shields.io/badge/Gesti%C3%B3n_del_Cambio_Tecnol%C3%B3gico-0F766E?style=for-the-badge" alt="Gestión del Cambio Tecnológico" />
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>💻 Lenguajes</strong>
+      <br /><br />
+      Java · C# · PHP · JavaScript · TypeScript · SQL
+    </td>
+    <td width="50%" valign="top">
+      <strong>⚙️ Frameworks y Tecnologías</strong>
+      <br /><br />
+      React · Laravel · Inertia.js · Spring Boot · ASP.NET Core · LWC · Aura Components
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>🎨 Frontend</strong>
+      <br /><br />
+      HTML5 · CSS3 · Tailwind CSS · Bootstrap
+    </td>
+    <td width="50%" valign="top">
+      <strong>🗄️ Bases de Datos</strong>
+      <br /><br />
+      PostgreSQL · MySQL · MariaDB · MongoDB · Firebase
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>🧰 Herramientas</strong>
+      <br /><br />
+      Git · GitHub · Docker · Docker Compose · Composer · Swagger/OpenAPI · Salesforce · Jira · Google Apps Script · Google Workspace
+    </td>
+    <td width="50%" valign="top">
+      <strong>🎨 Diseño UI/UX</strong>
+      <br /><br />
+      Figma · Canva · Paper Prototyping · Arquitectura de la Información · Wireframing · Prototipado de interfaces
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>🤖 Inteligencia Artificial</strong>
+      <br /><br />
+      ChatGPT · Claude · Google Gemini · Agentforce
+    </td>
+    <td width="50%" valign="top">
+      <strong>📈 Metodologías</strong>
+      <br /><br />
+      Agile · Lean · OKRs · Gestión del Cambio Tecnológico
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📂 Proyectos Destacados
 
-> 🔹 **GICEM (Gestión Integral para Centros de Educación Múltiple)**
->
-> Sistema web para la gestión y digitalización de expedientes de Centros de Educación Múltiple, desarrollado para optimizar el almacenamiento, consulta y administración de información académica.
->
-> **Tecnologías:** React • TypeScript • Tailwind CSS • Inertia.js • Laravel 12 • PostgreSQL
+### 🔹 GICEM (Gestión Integral para Centros de Educación Múltiple)
+
+Sistema web para la gestión y digitalización de expedientes de Centros de Educación Múltiple, desarrollado para optimizar el almacenamiento, consulta y administración de información académica.
+
+**Tecnologías:** React • TypeScript • Tailwind CSS • Inertia.js • Laravel 12 • PostgreSQL
 
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square" alt="Inertia.js" />
-  <img src="https://img.shields.io/badge/Laravel_12-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel 12" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/React-6e7781?style=flat&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-6e7781?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-6e7781?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Inertia.js-6e7781?style=flat" alt="Inertia.js" />
+  <img src="https://img.shields.io/badge/Laravel_12-6e7781?style=flat&logo=laravel&logoColor=white" alt="Laravel 12" />
+  <img src="https://img.shields.io/badge/PostgreSQL-6e7781?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
 ---
 
-> 🔹 **IDEA (Interfaz Digital para Evaluaciones Educativas)**
->
-> Sistema web para la digitalización y evaluación automática de exámenes escolares con soporte para distintos tipos de reactivos.
->
-> **Tecnologías:** React • Vite • TypeScript • Spring Boot 3 • PostgreSQL
+### 🔹 IDEA (Interfaz Digital para Evaluaciones Educativas)
+
+Sistema web para la digitalización y evaluación automática de exámenes escolares con soporte para distintos tipos de reactivos.
+
+**Tecnologías:** React • Vite • TypeScript • Spring Boot 3 • PostgreSQL
 
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot 3" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/React-6e7781?style=flat&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Vite-6e7781?style=flat&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/TypeScript-6e7781?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Spring_Boot_3-6e7781?style=flat&logo=springboot&logoColor=white" alt="Spring Boot 3" />
+  <img src="https://img.shields.io/badge/PostgreSQL-6e7781?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
 ---
 
-> 🔹 **VITA (Valoración Integral y Trazabilidad Asistencial)**
->
-> Sistema web para la administración de expedientes clínicos y seguimiento de pacientes que requieren cuidados especiales.
->
-> **Tecnologías:** HTML5 • CSS3 • JavaScript • ASP.NET Core Web API • PostgreSQL • Swagger/OpenAPI
+### 🔹 VITA (Valoración Integral y Trazabilidad Asistencial)
+
+Sistema web para la administración de expedientes clínicos y seguimiento de pacientes que requieren cuidados especiales.
+
+**Tecnologías:** HTML5 • CSS3 • JavaScript • ASP.NET Core Web API • PostgreSQL • Swagger/OpenAPI
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/ASP.NET_Core_Web_API-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core Web API" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Swagger/OpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger/OpenAPI" />
+  <img src="https://img.shields.io/badge/HTML5-6e7781?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-6e7781?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-6e7781?style=flat&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core_Web_API-6e7781?style=flat&logo=dotnet&logoColor=white" alt="ASP.NET Core Web API" />
+  <img src="https://img.shields.io/badge/PostgreSQL-6e7781?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Swagger/OpenAPI-6e7781?style=flat&logo=swagger&logoColor=white" alt="Swagger/OpenAPI" />
 </p>
 
 ---
 
 ## 📚 Actualmente aprendiendo
 
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Arquitectura_de_Software-111827?style=for-the-badge" alt="Arquitectura de Software" />
-  <img src="https://img.shields.io/badge/Patrones_de_Dise%C3%B1o-7C3AED?style=for-the-badge" alt="Patrones de Diseño" />
-  <img src="https://img.shields.io/badge/Pruebas_automatizadas-16A34A?style=for-the-badge" alt="Pruebas automatizadas" />
-  <img src="https://img.shields.io/badge/Dise%C3%B1o_UI%2FUX-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Diseño UI/UX" />
-</p>
+TypeScript · Docker · Arquitectura de Software · Patrones de Diseño · Pruebas automatizadas · Diseño UI/UX
 
 ---
 
@@ -190,8 +151,16 @@ Actualmente busco una oportunidad como **Desarrollador Full Stack Jr.** o **Anal
 ## 📊 GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jossbs&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jossbs&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Jossbs&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&rank_icon=github" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Jossbs&show_icons=true&theme=default&hide_border=true&bg_color=00000000&rank_icon=github" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jossbs&show_icons=true&theme=default&hide_border=true&bg_color=00000000&rank_icon=github" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Jossbs&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Jossbs&layout=compact&theme=default&hide_border=true&bg_color=00000000" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jossbs&layout=compact&theme=default&hide_border=true&bg_color=00000000" alt="Top languages" />
+  </picture>
 </div>
 
 ## 📫 Contacto
